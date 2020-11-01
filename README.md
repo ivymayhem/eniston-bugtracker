@@ -1,4 +1,4 @@
-# eniston Bugtracker
+# eniston Bug and Feature Tracker
 Please use this repository to let us know about bugs or feature requests.
 
 ---
