@@ -3,7 +3,6 @@ Please use this repository to let us know about bugs or feature requests.
 
 ---
 
-## Changelog
+## Stay up-to-date
 
-2020-11-06
-- Public Beta goes live
+**Want to get notified about updates?** Sign up for our "newsletter" on https://eniston.io to receive updates about features and additions.
