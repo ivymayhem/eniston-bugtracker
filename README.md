@@ -1,6 +1,10 @@
 # eniston Bug and Feature Tracker
 Please use this repository to let us know about bugs or feature requests.
 
+## Security
+
+If you discover any security related issues, please email andreas@ivymayhem.io instead of using the issue tracker.
+
 ---
 
 ## Stay up-to-date
